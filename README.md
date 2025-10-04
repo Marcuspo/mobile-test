@@ -20,14 +20,11 @@ Once the project is cloned, you can run the command below to launch the project 
   ```bash
   yarn
   ```
-
 - Start the project in iOS:
   ```bash
   yarn ios
   ```
   or
-
-
 - Start the project in Android:
   ```bash
   yarn android
