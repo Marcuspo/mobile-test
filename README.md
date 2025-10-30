@@ -11,7 +11,6 @@ Several objectives will be analyzed:
 **You have 1 hour to complete the project, good luck!**
 
 ---
-oi
 
 
 ## Step 1: Initial Setup
